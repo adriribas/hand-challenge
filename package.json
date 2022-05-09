@@ -1,0 +1,21 @@
+{
+  "name": "hand-challenge",
+  "version": "1.0.0",
+  "description": "You find a strange mirror that always shows a hand that is moving. \r The hand appears to be alive, and after a lot of questions of \"yes\" and \"no\" answer, you know that the hand is trying to teach you a program that is written in HPL (Hand Programming Language).",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriribas/hand-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriribas/hand-challenge/issues"
+  },
+  "homepage": "https://github.com/adriribas/hand-challenge#readme",
+  "type": "module"
+}
